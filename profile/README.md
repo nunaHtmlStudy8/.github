@@ -6,5 +6,5 @@
 | 정은총 | Project Owner |https://github.com/ecjung97 |
 | 조병민 | Scrum Master |https://github.com/merrybmc |
 | 석민영 | Member |https://github.com/MINYOUNG-SEOK |
-| 지영서 | Member |https://github.com/nasimple |
+| 지영서 | Member |https://github.com/youngseoJi |
 | 김혜련 | Member |https://github.com/ziitteo |
